@@ -1,4 +1,4 @@
-# Hi there, I'm Tarun! 👋
+# Hi there, I'm Tharun R! 👋
 
 ## About Me
 
