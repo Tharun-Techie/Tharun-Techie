@@ -13,7 +13,7 @@ I'm a passionate individual with diverse interests and skills. Here's a bit abou
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** Python, JavaScript
+- **Programming Languages:** Python, Java
 - **Web Development:** HTML, CSS, JavaScript, React.js, Node.js
 - **Data Analysis:** Pandas, NumPy, Matplotlib, seaborn
 - **Version Control:** Git, GitHub
