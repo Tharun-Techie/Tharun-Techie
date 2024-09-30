@@ -4,7 +4,7 @@
 
 I'm a passionate individual with diverse interests and skills. Here's a bit about what I do:
 
-- 🐍 Python Developer
+- 🐍 Java Python Developer
 - 💻 Web Developer
 - 📈 Technical Analyst & Trader
 - 🚀 Enthusiastic Learner and Problem Solver
